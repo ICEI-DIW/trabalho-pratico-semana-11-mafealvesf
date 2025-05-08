@@ -4,14 +4,14 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Maria Fernanda Alves  
+- Matricula: 620457
+- Proposta de projeto escolhida: Site de receitas
 - Breve descrição sobre seu projeto:
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
