@@ -20,10 +20,10 @@
       "autor": "Joana",
       "destaque": true,
       "data": "2025-04-25",
-      "imagem_principal": "img/feijoada1.jpeg",
+      "imagem_principal": "assets/img/feijoada1.jpeg",
       "imagens_complementares": [
-        { "id": 1, "src": "img/feijoada.png", "descricao": "Feijoada" },
-        { "id": 2, "src": "img/feijoada2.jpeg", "descricao": "Feijoada servida" }
+        { "id": 1, "src": "assets/img/feijoada.png", "descricao": "Feijoada" },
+        { "id": 2, "src": "assets/img/feijoada2.jpeg", "descricao": "Feijoada servida" }
       ]
     },
     {
@@ -46,10 +46,10 @@
       "autor": "Iris",
       "destaque": true,
       "data": "2025-04-26",
-      "imagem_principal": "img/moqueca1.jpeg",
+      "imagem_principal": "assets/img/moqueca1.jpeg",
       "imagens_complementares": [
-        { "id": 1, "src": "img/moqueca.jpeg", "descricao": "Moqueca servida" },
-        { "id": 2, "src": "img/moqueca2.jpeg", "descricao": "Detalhe do prato" }
+        { "id": 1, "src": "assets/img/moqueca.jpeg", "descricao": "Moqueca servida" },
+        { "id": 2, "src": "assets/img/moqueca2.jpeg", "descricao": "Detalhe do prato" }
       ]
     },
     {
@@ -69,10 +69,10 @@
       "autor": "Pedro",
       "destaque": false,
       "data": "2025-04-27",
-      "imagem_principal": "img/acaraje.jpeg",
+      "imagem_principal": "assets/img/acaraje.jpeg",
       "imagens_complementares": [
-        { "id": 1, "src": "img/acaraje1.jpeg", "descricao": "Bolinhos na fritura" },
-        { "id": 2, "src": "img/acaraje2.jpeg", "descricao": "Acarajé recheado" }
+        { "id": 1, "src": "assets/img/acaraje1.jpeg", "descricao": "Bolinhos na fritura" },
+        { "id": 2, "src": "assets/img/acaraje2.jpeg", "descricao": "Acarajé recheado" }
       ]
     }
   ]
