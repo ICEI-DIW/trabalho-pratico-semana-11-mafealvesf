@@ -7,7 +7,7 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 - Nome: Maria Fernanda Alves  
 - Matricula: 620457
 - Proposta de projeto escolhida: Site de receitas
-- Breve descrição sobre seu projeto:
+- Breve descrição sobre seu projeto: Site de  Receitas Brasileiras. Projeto desenvolvido para a disciplina de DIW , com o objetivo de praticar o consumo de APIs RESTful utilizando JSON Server e Fetch API em um ambiente front-end organizado com HTML, CSS (Bootstrap) e JavaScript.
 
 **Print do teste da API com visualização do JSON**
 
@@ -15,7 +15,7 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
 
 ## **Orientações Gerais**
 
